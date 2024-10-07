@@ -41,14 +41,12 @@ body{
         color: white;
         grid-column: 1/span 2;
         padding-inline: 4%;
-        padding-block: 2%;
         border-radius: 1.5% 1.5%;
     }
     .jonathan-walters {
         background-color: #49556b;
         color: white;
         padding-inline: 8%;
-        padding-block: 2%;
         border-radius: 2% 2%;
     }
     .kira-white {
@@ -57,14 +55,12 @@ body{
         grid-column: 4/span 1;
         grid-row: 1/span 2;
         padding-inline: 8%;
-        padding-block: 2%;
         border-radius: 2% 2%;
     }
     .jeanette-harmon {
         background-color: white;
         color: #696c74;
         padding-inline: 8%;
-        padding-block: 2%;
         border-radius: 2% 2%;
     }
     .patrick-abrams {
@@ -72,7 +68,6 @@ body{
         color: white;
         grid-column: 2/ span 2;
         padding-inline: 4%;
-        padding-block: 2%;
         border-radius: 1.5% 1.5%;
     }
     p {
@@ -115,40 +110,31 @@ body{
         background-color: #733fc8;
         justify-content: center;
         color: white;
-        grid-column: 1/span 2;
         padding-inline: 8%;
-        padding-block: 2%;
         border-radius: 1.5% 1.5%;
     }
     .jonathan-walters {
         background-color: #49556b;
         color: white;
         padding-inline: 8%;
-        padding-block: 2%;
         border-radius: 2% 2%;
     }
     .kira-white {
         background-color: white;
         color: #696c74;
-        grid-column: 4/span 1;
-        grid-row: 1/span 2;
         padding-inline: 8%;
-        padding-block: 2%;
         border-radius: 2% 2%;
     }
     .jeanette-harmon {
         background-color: white;
         color: #696c74;
         padding-inline: 8%;
-        padding-block: 2%;
         border-radius: 2% 2%;
     }
     .patrick-abrams {
         background-color: #18202d;
         color: white;
-        grid-column: 2/ span 2;
         padding-inline: 8%;
-        padding-block: 2%;
         border-radius: 1.5% 1.5%;
     }
     p {
